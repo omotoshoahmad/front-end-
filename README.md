@@ -1,2 +1,2 @@
-# front-end-
+# front-end
 Practise Projects
